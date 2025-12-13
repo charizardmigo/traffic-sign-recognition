@@ -1,0 +1,22 @@
+imagesize
+matplotlib
+numpy
+omegaconf>=2.0.1
+onnx
+# onnx-simplifier  # optional; not installed by default (issues on Python 3.12)
+opencv-python
+pyaml
+pycocotools
+pytorch-lightning==1.9.5
+pyyaml
+pillow
+tabulate
+termcolor
+tensorboard
+termcolor
+torch
+# torchmetrics
+torchvision
+torchaudio
+tqdm
+
