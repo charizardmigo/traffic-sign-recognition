@@ -318,7 +318,7 @@ Ensure “Video File” is selected, then click “Open Video” and choose a fi
 data/video/AutoraceTrackLab61All.mp4
 ```
 
-Alternatively, you can select “Camera” as the source for texting. The player will attempt to open the default camera index.
+Alternatively, you can select “Camera” as the source for testing. The player will attempt to open the default camera index.
 
 ### 4. Enable Processing and Saving (Optional)
 
