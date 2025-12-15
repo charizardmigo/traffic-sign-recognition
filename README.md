@@ -379,7 +379,9 @@ Use “Change YOLO Model” on Video Player to explicitly select the `.pt` file.
 ## 📄 License
 
 This project builds on the NanoDet framework, which is licensed under the **Apache License 2.0.**  
-Please consult the NanoDet repository and respect all associated licenses for any derivative work.
+Please consult the NanoDet repository and respect all associated licenses for any derivative work.  
+All additional code, configuration, and training scripts in this repository are provided under the **MIT License.**  
+See the `LICENSE` file for details.
 
 ---
 
