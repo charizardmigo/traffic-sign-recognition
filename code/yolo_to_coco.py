@@ -1,6 +1,6 @@
 """
 ==================================================
- Authors  : Priestley F. and Cynthia W.
+ Authors  : Priestley Fomeche
  Filename : yolo_to_coco.py
  Purpose  : Converts labels from YOLO COCO format
  Date     : 17.09.2025

@@ -1,6 +1,6 @@
 """
 =============================================
- Authors  : Priestley F. and Cynthia W.
+ Authors  : Priestley Fomeche
  Filename : diagnose_ckpt.py
  Purpose  : Verifies health of checkpoints
  Date     : 17.09.2025

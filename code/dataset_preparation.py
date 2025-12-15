@@ -1,6 +1,6 @@
 """
 =============================================
- Authors  : Priestley F. and Cynthia W.
+ Authors  : Priestley Fomeche
  Filename : dataset_preparation.py
  Purpose  : Splits dataset for training
  Date     : 17.09.2025
