@@ -14,14 +14,14 @@ This project was developed as a final semester capstone to demonstrate practical
 - Optimizing models for real-time inference on resource-constrained hardware
 - Creating reproducible ML workflows with clear documentation
 
-**Key achievement:** Real-time traffic sign detection and classification on CPU-only systems, demonstrating feasibility for deployment in cost-sensitive automotive applications.
+**Key achievement:** NanoDet-Plus reached 97.1% mAP@0.5 (0.788 mAP@0.50:0.95) on the 10-class test set while running on CPU-only hardware, suitable for cost-sensitive automotive deployment.
 
 ---
 
 ## 🚀 Features
 - **Custom Object Detection:** NanoDet-Plus-m-1.5x trained on a COCO-format traffic sign dataset
 - **10-Class Recognition:** Detects tunnel, speed limits (50/100), intersections, parking, directional signs, construction zones, stop signs, and traffic lights
-- **Real-Time Inference:** Optimized for CPU-only execution with minimal latency
+- **CPU-Only Inference:** Runs without a GPU, targeting embedded and edge deployment
 - **Video Processing Pipeline:** Frame-by-frame annotation with inference time tracking
 - **Flexible Training Configuration:** YAML-based hyperparameter configuration (my_dataset.yml)
 - **Model Conversion Utilities:** Checkpoint conversion from PyTorch Lightning .ckpt to standard PyTorch .pt
@@ -243,7 +243,7 @@ device:
   precision: 32      # set 16 for AMP (GPU only)
 
 schedule:
-  total_epochs: 10   # increase for better performance
+  total_epochs: 300
   optimizer:
     name: AdamW
     lr: 0.001
