@@ -387,11 +387,14 @@ See the `LICENSE` file for details.
 
 ## 👤 Author
 
-Priestley Fomeche  
-GitHub: [@charizardmigo](https://github.com/charizardmigo)  
-LinkedIn: [Priestley Fomeche](https://linkedin.com/in/priestley-fomeche)  
-Website: [priestleyfomeche.com](https://priestleyfomeche.com/engineering)  
-Email: priestley@priestleyfomeche.com
+**Priestley Fomeche Njukang**  
+Elektro- und Informationstechnik (Electrical and Computer Engineering)  
+Hochschule Anhalt (Anhalt University of Applied Sciences)
+
+📧 **Email:** priestley@priestleyfomeche.com  
+🔗 **LinkedIn:** [Priestley Fomeche](https://linkedin.com/in/priestley-fomeche)  
+🌐 **Website:** [priestleyfomeche.com](https://priestleyfomeche.com/engineering)  
+💻 **GitHub:** [@charizardmigo](https://github.com/charizardmigo)
 
 ---
 
