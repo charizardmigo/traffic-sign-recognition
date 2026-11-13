@@ -14,7 +14,7 @@ This project was developed as a final semester capstone to demonstrate practical
 - Optimizing models for real-time inference on resource-constrained hardware
 - Creating reproducible ML workflows with clear documentation
 
-**Key achievement:** NanoDet-Plus reached 97.1% mAP@0.5 (0.788 mAP@0.50:0.95) on the 10-class test set while running on CPU-only hardware, suitable for cost-sensitive automotive deployment.
+**Key achievement:** NanoDet-Plus reached 97.1% mAP@0.5 (0.788 mAP@0.50:0.95) on the 10-class test set while running on CPU-only hardware, suitable for cost-sensitive automotive deployment. During development, the detector was also benchmarked against a YOLO baseline.
 
 ---
 
@@ -390,7 +390,8 @@ See the `LICENSE` file for details.
 Priestley Fomeche  
 GitHub: [@charizardmigo](https://github.com/charizardmigo)  
 LinkedIn: [Priestley Fomeche](https://linkedin.com/in/priestley-fomeche)  
-Email: fomechepriestly7@gmail.com
+Website: [priestleyfomeche.com](https://priestleyfomeche.com/engineering)  
+Email: priestley@priestleyfomeche.com
 
 ---
 
